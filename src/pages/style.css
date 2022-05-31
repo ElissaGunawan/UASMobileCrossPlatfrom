@@ -1,0 +1,31 @@
+.profile-photo {
+    width: 100px;
+    border-radius: 50% !important;
+    overflow: hidden;
+  }
+  .parent {
+    display: flex;
+    justify-content: center;
+  }
+  #order {
+    background-color: #25a244;
+    border-radius: 20px;
+    margin: 10px 5px 10px 5px;
+    display: flex;
+  }
+  #history {
+    background-color: #ff9f1c;
+    border-radius: 20px;
+    margin: 10px 5px 10px 5px;
+  }
+  #outlet {
+    background-color: #db3a34;
+    border-radius: 20px;
+    margin: 10px 5px 10px 5px;
+  }
+  #account {
+    background-color: #014f86;
+    border-radius: 20px;
+    margin: 10px 5px 10px 5px;
+  }
+  

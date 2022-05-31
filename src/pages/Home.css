@@ -1,0 +1,38 @@
+.transport-status.primary {
+    --background: #4285f4;
+}
+
+.transport-status.info {
+    --background: #29b6f6;
+}
+
+.transport-status.warning {
+    --background: rgb(232, 168, 41);
+}
+
+.transport-status.danger {
+    --background: #ff5252;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.IonImg {
+    --background: #fc5252;
+}
+
+
+.center {
+   display: block;
+   margin: auto;
+   width: 100%;
+  }
+
+/* .bg-img {
+    background: url('../img/spiderman.jpg') no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+} */

@@ -1,0 +1,10 @@
+.title-outlet {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.parent-outlet {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
